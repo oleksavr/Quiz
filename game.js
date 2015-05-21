@@ -11,10 +11,10 @@ var answerString = answerString + answers[i].value;
 });
 checkIfCorrect(answerString);
 };
-var checkIfCorrect = function(theString{
+var checkIfCorrect = function(theString){
 if(parseInt(theString,16) === 811124566973){
 $("body").addClass("correct");
-$("h1").text("You Win!);
+$("h1").text("You Win!");
 $("canvas").show();
 }
 };
