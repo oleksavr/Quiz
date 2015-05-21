@@ -34,7 +34,7 @@ if(enchant){
 $("#question9").show();
 };
 
-if(crafty){
+if(Crafty){
 $("#question10").show();
 };
 
