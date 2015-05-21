@@ -1,3 +1,3 @@
-if(JQuery){
+if(jQuery){
 $("#question1").show();
 };
