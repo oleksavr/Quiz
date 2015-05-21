@@ -10,7 +10,7 @@ if(atom){
 $("#question3").show();
 };
 
-if(cratejs){
+if(createjs){
 $("#question4").show();
 };
 
@@ -22,7 +22,7 @@ if(require){
 $("#question6").show();
 };
 
-if(.playground){
+if($().playground){
 $("#question7").show();
 };
 
@@ -34,7 +34,7 @@ if(enchant){
 $("#question9").show();
 };
 
-if(Crafty){
+if(crafty){
 $("#question10").show();
 };
 
